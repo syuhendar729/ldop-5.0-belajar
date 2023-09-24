@@ -1,2 +1,2 @@
 # ldop-5.0-belajar
-Belajar cuk
+Tugas kaderisasi HMIF membuat CV dengan html
